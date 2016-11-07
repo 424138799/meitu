@@ -1,13 +1,4 @@
 <?php
-
-
-
-
-
-
-
-
-
-oiuytrsghjklj;kl
+echo "345678";
 
 ?>
