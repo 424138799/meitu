@@ -7,4 +7,7 @@
  */
 $ysiskd = 'sgh';
 
+
+$yind = 'fgkj';
+
 ?>
