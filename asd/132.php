@@ -1,14 +1,16 @@
 <?php
+
 /**
- * Created by PhpStorm.
- * User: 海洋
- * Date: 2016/11/8
+ * 353
+ * 212
+ * 3232
  * Time: 7:47
  */
 $ysiskd = 'sgh';
 //sggdfgdgdgdgdgdgdgdg
 $sdfsdf = "2345";
-$b = '2345678' + $sdfsdf;
-var_dumP($b);
+$b = '2345678'.$sdfsdf;
+var_dump($b);
+
 
 ?>
